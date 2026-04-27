@@ -17,10 +17,10 @@
 			<String>author.foreground-color</String>
 			<String>151,157,180</String>
 		</entry>
-		<entry>
+<!--		<entry>
 			<String>author.tags.font</String>
 			<null/>
-		</entry>
+		</entry>-->
 		<entry>
 			<String>cc.doc.window.background</String>
 			<String>32,39,70</String>
@@ -2408,10 +2408,10 @@
 			<String>editor.caret-color</String>
 			<String>151,157,180</String>
 		</entry>
-		<entry>
+<!--		<entry>
 			<String>editor.font</String>
 			<String>Cascadia Mono,0,17</String>
-		</entry>
+		</entry>-->
 		<entry>
 			<String>editor.line-highlight-color</String>
 			<String>41,50,86</String>
@@ -2436,11 +2436,11 @@
 			<String>find.highlight.color</String>
 			<String>192,139,48</String>
 		</entry>
-		<entry>
+<!--		<entry>
 			<String>font.for.author.v12</String>
 			<String>Ubuntu,0,20</String>
-		</entry>
-		<entry>
+		</entry>-->
+	<!--	<entry>
 			<String>font.for.gui</String>
 			<String>DejaVu Sans,0,13</String>
 		</entry>
@@ -2451,7 +2451,7 @@
 		<entry>
 			<String>font.for.text</String>
 			<String>DejaVu Sans,0,13</String>
-		</entry>
+		</entry>-->
 		<entry>
 			<String>fs.window.background</String>
 			<String>32,39,70</String>
@@ -2669,10 +2669,10 @@
 			<String>ui.view.titles.background.color</String>
 			<String>32,39,70</String>
 		</entry>
-		<entry>
+<!--		<entry>
 			<String>ui.view.titles.font</String>
 			<String>DejaVu Sans,0,13</String>
-		</entry>
+		</entry>-->
 		<entry>
 			<String>ui.view.titles.foreground.color</String>
 			<String>151,157,180</String>
